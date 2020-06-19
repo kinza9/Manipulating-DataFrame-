@@ -1,4 +1,4 @@
-﻿Model,Accuracy_Score ,Cross_Valiadiation ,,,,
+﻿Model,Accuracy_Score ,Cross_Validation ,,,,
 Logistic Regression,0.788,0.752,,,,
 Support Vector,0.775,0.749,,,,
 K- Nearest Neighbour,0.771,0.756,,,,
